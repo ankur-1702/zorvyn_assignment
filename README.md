@@ -39,8 +39,6 @@ A clean and interactive frontend-only finance dashboard built to visualize finan
 
 
 
----
-
 ## Approach
 
 * Component-based architecture
